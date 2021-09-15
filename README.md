@@ -7,3 +7,5 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
   -   [Stock Market Prediction And Forecasting Using Stacked LSTM](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Beginner%20Level%20Task/Task%202-%20Stock%20Market%20Prediction%20And%20Forecasting%20Using%20Stacked%20LSTM)
   - [Music Recommendation](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Beginner%20Level%20Task/Task%203-%20Music%20Recommendation)
   - [Image to Pencil Sketch with Python](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Beginner%20Level%20Task/Task%204-%20Image%20to%20Pencil%20Sketch%20with%20Python)
+* Intermediate level Tasks
+  - [Exploratory Data Analysis on Dataset - Terrorism]
