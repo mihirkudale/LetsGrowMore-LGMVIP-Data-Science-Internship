@@ -10,5 +10,5 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
 * Intermediate level Tasks
   - [Exploratory Data Analysis on Dataset - Terrorism](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Intermediate%20Level%20Task/Task%201-%20Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism)
   - [Prediction using Decision Tree Algorithm](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Intermediate%20Level%20Task/Task%202-%20Prediction%20using%20Decision%20Tree%20%20Algorithm)
-* Advanced Level Tasks
+* Advanced level Tasks
   - 
