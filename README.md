@@ -12,3 +12,4 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
   - [Prediction using Decision Tree Algorithm](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Intermediate%20Level%20Task/Task%202-%20Prediction%20using%20Decision%20Tree%20%20Algorithm)
 * Advanced level Tasks
   - [Develop A Neural Network That Can Read Handwriting](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%201-%20Develop%20A%20Neural%20Network%20That%20Can%20Read%20Handwriting)
+  - [Next Word Prediction]
