@@ -13,3 +13,4 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
 * Advanced level Tasks
   - [Develop A Neural Network That Can Read Handwriting](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%201-%20Develop%20A%20Neural%20Network%20That%20Can%20Read%20Handwriting)
   - [Next Word Prediction](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%202-%20Next%20Word%20Prediction)
+  - [Task 3- Handwritten equation solver using CNN]
