@@ -15,4 +15,4 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
   - [Next Word Prediction](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%202-%20Next%20Word%20Prediction)
   - [Handwritten equation solver using CNN](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%203-%20Handwritten%20equation%20solver%20using%20CNN)
 * More Advanced Level Task
-  - 
+  - [ML Facial recognition to detect mood and suggest songs accordingly]
