@@ -19,4 +19,4 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
 
 
 
-![LetsGrowMore Internship Completion  Certificate](https://user-images.githubusercontent.com/90020715/171467959-610c4c89-99ea-4a47-b0e2-ca1f2ef7a094.jpg, width = 300, height = 300)
+![LetsGrowMore Internship Completion  Certificate](https://user-images.githubusercontent.com/90020715/171467959-610c4c89-99ea-4a47-b0e2-ca1f2ef7a094.jpg)
