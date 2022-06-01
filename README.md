@@ -16,3 +16,7 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
   - [Handwritten equation solver using CNN](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/Advanced%20Level%20Task/Task%203-%20Handwritten%20equation%20solver%20using%20CNN)
 * More Advanced Level Task
   - [ML Facial recognition to detect mood and suggest songs accordingly](https://github.com/mihirkudale/LGMVIP-Data-Science/tree/main/More%20Advanced%20Level%20Task/ML%20Facial%20recognition%20to%20detect%20mood%20and%20suggest%20songs%20accordingly)
+
+
+
+[LetsGrowMore Internship Completion  Certificate.pdf](https://github.com/mihirkudale/LGMVIP-Data-Science/files/8817678/LetsGrowMore.Internship.Completion.Certificate.pdf)
